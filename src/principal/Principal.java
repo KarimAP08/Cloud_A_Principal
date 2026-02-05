@@ -14,6 +14,6 @@ public class Principal {
         System.out.println("1. Karim Eduardo Aguilera Portillo - 22550324");
         System.out.println("2. Aaron Manuel Diaz Ornelas");
         System.out.println("3. Sinue Abelardo Mendoza Portillo");
-        System.out.println("3. Angel");
+        System.out.println("3. Angel Mendoza");
     }
 }
